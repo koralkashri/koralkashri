@@ -24,6 +24,11 @@
 
 - 💬 Ask me about **C++, Linux, RT systems**
 
+
+### My last week languages activity
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
@@ -56,9 +61,7 @@
          <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=korelkashri&layout=compact&hide=html" alt="korelkashri" />
 </p>-->
 
-<p>
-         <img align="left" src="https://github-readme-stats.vercel.app/api?username=korelkashri&show_icons=true" alt="korelkashri" />
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=korelkashri&show_icons=true" alt="korelkashri" /></p>
 <pre>
          $$            $$
       $$$  $ $$    $$ $  $$$
