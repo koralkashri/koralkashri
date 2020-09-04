@@ -51,7 +51,7 @@ No Activity Tracked This Week
 
 <!--END_SECTION:waka-->
 
-### C++ Senioreas Posts
+### [C++ Senioreas](https://cppsenioreas.wordpress.com/) Posts
 <!-- CPP-SENIOREAS-POSTS:START -->
 - [Template Base Class Collection](https://cppsenioreas.wordpress.com/2020/08/30/template-base-class-collection/)
 - [Substitution Failure is Not an Error – SFINAE](https://cppsenioreas.wordpress.com/2020/08/27/substitution-failure-is-not-an-error-sfinae/)
