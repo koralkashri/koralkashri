@@ -28,7 +28,7 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<p align="left">
+<p align="center">
          <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="80" height="80"/>
          <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="80" height="80"/>
          <img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="angularjs" width="40" height="40"/>
@@ -52,14 +52,13 @@
          <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>
          <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
 </p>
-<p>
+<!--<p>
          <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=korelkashri&layout=compact&hide=html" alt="korelkashri" />
-</p>
+</p>-->
 
 <p>
          <img align="left" src="https://github-readme-stats.vercel.app/api?username=korelkashri&show_icons=true" alt="korelkashri" />
 </p>
-
 <pre>
          $$            $$
       $$$  $ $$    $$ $  $$$
