@@ -15,5 +15,6 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           max_post_count: "6"
-          feed_list: "https://cppsenioreas.wordpress.com/feed/, https://dev.to/feed/korelkashri"
+          feed_list: "https://cppsenioreas.wordpress.com/feed/"
           gh_token: ${{ secrets.GH_TOKEN }}
+          comment_tag_name: "CPP-SENIOREAS-POSTS"
