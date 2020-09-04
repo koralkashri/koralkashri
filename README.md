@@ -51,15 +51,19 @@ No Activity Tracked This Week
 
 <!--END_SECTION:waka-->
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
+### C++ Senioreas Posts
+<!-- CPP-SENIOREAS-POSTS:START -->
 - [Template Base Class Collection](https://cppsenioreas.wordpress.com/2020/08/30/template-base-class-collection/)
 - [Template Base Class Collection](https://dev.to/korelkashri/template-base-class-collection-2jel)
 - [Substitution Failure is Not an Error – SFINAE](https://cppsenioreas.wordpress.com/2020/08/27/substitution-failure-is-not-an-error-sfinae/)
 - [Become a Compile-Time Coder](https://cppsenioreas.wordpress.com/2020/08/23/become-a-compile-time-coder/)
 - [The Exact Solution for a Generic Problem – Part 2](https://cppsenioreas.wordpress.com/2020/08/18/the-exact-solution-for-a-generic-problem-part-2/)
 - [The Exact Solution for a Generic Problem – Part 1](https://cppsenioreas.wordpress.com/2020/08/14/the-exact-solution-for-a-generic-problem-part-1/)
-<!-- BLOG-POST-LIST:END -->
+<!-- CPP-SENIOREAS-POSTS:END -->
+
+### DevTo Posts
+<!-- DevTo-POSTS:START -->
+<!-- DevTo-POSTS:END -->
 
 <p align="left">
          <img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="80" height="80"/>
