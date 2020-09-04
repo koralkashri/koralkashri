@@ -24,7 +24,6 @@
 
 - 💬 Ask me about **C++, Linux, RT systems**
 
-
 ### My last week languages activity
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
