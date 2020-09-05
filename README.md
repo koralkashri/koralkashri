@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Korel 👋</h1>
-<h3 align="center">FS developer - a passionate Linux C++ RT developer. Currently: Senior C++ developer.</h3>
+<h3 align="center">FS developer - a passionate Linux C++ RT developer.<br>Currently: Senior C++ developer.</h3>
 
 <p align="center">
 <a href="https://dev.to/korelkashri" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="korelkashri" height="30" width="30" /></a>
@@ -10,19 +10,62 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=korelkashri" alt="korelkashri" /> </p>
 
-- 🔭 I’m currently working on some side C++ tools for my team.
+<table border="0">
+    <tbody>
+        <td>
+            <ul>
+                <li><b>💼 Current work position</b>: Senior C++ RT Linux Developer.</li>
+                <li>🔭 I’m currently working on some side C++ tools for my team.</li>
+                <li>📝 I regulary write articles on my C++ blog - C++ Senioreas <a href="https://cppsenioreas.wordpress.com/">https://cppsenioreas.wordpress.com/</a></li>
+                <li>🌱 I’m currently learning <b>C++ techniques</b></li>
+                <li>👯 I’m looking to collaborate on <a href="https://github.com/gcc-mirror/gcc">GCC compiler</a></li>
+                <li>👨‍💻 All of my projects are available at <a href="https://korel-kashri-portfolio.herokuapp.com/">my portfolio</a></li>
+                <li><b>📫 How to reach me</b>: Follow on <a href="https://twitter.com/intent/user?&region=follow&screen_name=KorelK2&tw_p=followbutton">twitter</a> Or <a href="mailto:korelkashri@gmail.com">direct message</a>.</li>
+                <li>💬 Ask me about <b>C++, Linux, RT systems</b></li>
+            </ul>
+        </td>
+        <td>
+            <pre>
+         $$            $$
+      $$$  $ $$    $$ $  $$$
+     $  $  $$  $  $  $$  $  $
+     $  $$$ $  $$$$  $ $$$ $$
+    $$$$     $$$  $$$     $$$$
+   $  $        $  $        $  $
+   $  $         $$         $  $
+    $$          $$          $$
+   $  $     $$$$  $$$$     $  $
+   $  $    $$$$$$$$$$$$    $  $
+    $$$$    $$$$$$$$$$    $$$$
+     $  $    $$$$$$$$    $  $
+     $  $     $$$$$$     $  $
+      $$$$     $$$$     $$$$
+       $  $     $$     $  $
+       $  $$$        $$$  $
+        $$$  $      $  $$$
+          $  $$$  $$$  $
+    $$$$$  $$$  $$  $$$ $$$$
+   $     $  $  $$  $  $     $
+   $      $  $$  $$  $      $
+   $       $  $  $  $       $
+   $        $ $$$$ $        $
+    $        $    $        $
+   $         $    $         $
+ $$ $        $    $        $ $$
+$  $         $$$$$$         $  $
+$  $   $$$$$$ $  $ $$$$$$   $  $
+$   $ $    $ $$  $$ $    $ $   $
+ $  $$    $ $ $  $ $ $    $$  $
+  $  $$$$$ $  $  $  $ $$$$$  $
+   $      $   $  $   $      $
+   $     $    $  $    $     $
+    $   $     $  $     $   $
+     $$$      $$$$      $$
+            </pre>
+        </td>
+    </tbody>
+</table>
 
-- 📝 I regulary write articles on my C++ blog - C++ Senioreas [https://cppsenioreas.wordpress.com/](https://cppsenioreas.wordpress.com/)
-
-- 🌱 I’m currently learning **C++ techniques**
-
-- 👯 I’m looking to collaborate on [GCC compiler](https://github.com/gcc-mirror/gcc)
-
-- 👨‍💻 All of my projects are available at [https://korel-kashri-portfolio.herokuapp.com/](https://korel-kashri-portfolio.herokuapp.com/)
-
-- 📫 How to reach me: Follow on [twitter](https://twitter.com/intent/user?&region=follow&screen_name=KorelK2&tw_p=followbutton) Or [direct message](mailto:korelkashri@gmail.com).
-
-- 💬 Ask me about **C++, Linux, RT systems**
 
 ### My last week languages activity
 <!--START_SECTION:waka-->
@@ -99,41 +142,3 @@ No Activity Tracked This Week
          <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=korelkashri&layout=compact&hide=html" alt="korelkashri" />
 </p>-->
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=korelkashri&show_icons=true" alt="korelkashri" /></p>
-
-<pre>
-         $$            $$
-      $$$  $ $$    $$ $  $$$
-     $  $  $$  $  $  $$  $  $
-     $  $$$ $  $$$$  $ $$$ $$
-    $$$$     $$$  $$$     $$$$
-   $  $        $  $        $  $
-   $  $         $$         $  $
-    $$          $$          $$
-   $  $     $$$$  $$$$     $  $
-   $  $    $$$$$$$$$$$$    $  $
-    $$$$    $$$$$$$$$$    $$$$
-     $  $    $$$$$$$$    $  $
-     $  $     $$$$$$     $  $
-      $$$$     $$$$     $$$$
-       $  $     $$     $  $
-       $  $$$        $$$  $
-        $$$  $      $  $$$
-          $  $$$  $$$  $
-    $$$$$  $$$  $$  $$$ $$$$
-   $     $  $  $$  $  $     $
-   $      $  $$  $$  $      $
-   $       $  $  $  $       $
-   $        $ $$$$ $        $
-    $        $    $        $
-   $         $    $         $
- $$ $        $    $        $ $$
-$  $         $$$$$$         $  $
-$  $   $$$$$$ $  $ $$$$$$   $  $
-$   $ $    $ $$  $$ $    $ $   $
- $  $$    $ $ $  $ $ $    $$  $
-  $  $$$$$ $  $  $  $ $$$$$  $
-   $      $   $  $   $      $
-   $     $    $  $    $     $
-    $   $     $  $     $   $
-     $$$      $$$$      $$
-</pre>
