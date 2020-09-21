@@ -102,12 +102,12 @@ Unknown Project          2 mins              ░░░░░░░░░░░�
 
 ### [C++ Senioreas](https://cppsenioreas.wordpress.com/) Posts
 <!-- CPP-SENIOREAS-POSTS:START -->
+- [Maintain Your Iterations – The Iterators Secret – Part 1](https://cppsenioreas.wordpress.com/2020/09/21/maintain-your-iterations-the-iterators-secret-part-1/)
 - [Lambda, Expressions, and between them – The Lambdas Mystery – Part 2](https://cppsenioreas.wordpress.com/2020/09/13/lambda-expressions-and-between-them-the-lambdas-mystery-part-2/)
 - [Lambda, Expressions, and between them – From 11 to 20 – Part 1](https://cppsenioreas.wordpress.com/2020/09/07/lambda-expressions-and-between-them-from-cpp11-to-cpp20-part-1/)
 - [Template Base Class Collection](https://cppsenioreas.wordpress.com/2020/08/30/template-base-class-collection/)
 - [Substitution Failure is Not an Error – SFINAE](https://cppsenioreas.wordpress.com/2020/08/27/substitution-failure-is-not-an-error-sfinae/)
 - [Become a Compile-Time Coder](https://cppsenioreas.wordpress.com/2020/08/23/become-a-compile-time-coder/)
-- [The Exact Solution for a Generic Problem – Part 2](https://cppsenioreas.wordpress.com/2020/08/18/the-exact-solution-for-a-generic-problem-part-2/)
 <!-- CPP-SENIOREAS-POSTS:END -->
 
 ### DevTo Posts
