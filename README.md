@@ -104,12 +104,12 @@ json_cpp                 3 mins              ░░░░░░░░░░░�
 
 ### [C++ Senioreas](https://cppsenioreas.wordpress.com/) Posts
 <!-- CPP-SENIOREAS-POSTS:START -->
+- [Contributing a C++ Compiler – Experience Details](https://cppsenioreas.wordpress.com/2020/10/25/contributing-a-cpp-compiler-experience-details/)
 - [The Number that Broke and Spoke – C++ Investigator](https://cppsenioreas.wordpress.com/2020/10/13/the-number-that-broke-and-spoke-cpp-investigator/)
 - [Maintain Your Iterations – Iterators Customization – Part 3](https://cppsenioreas.wordpress.com/2020/10/04/maintain-your-iterations-iterators-customization-part-3/)
 - [Maintain Your Iterations – Insecure Iterations – Part 2](https://cppsenioreas.wordpress.com/2020/09/27/maintain-your-iterations-insecure-iterations-part-2/)
 - [Maintain Your Iterations – The Iterators Secret – Part 1](https://cppsenioreas.wordpress.com/2020/09/21/maintain-your-iterations-the-iterators-secret-part-1/)
 - [Lambda, Expressions, and between them – The Lambdas Mystery – Part 2](https://cppsenioreas.wordpress.com/2020/09/13/lambda-expressions-and-between-them-the-lambdas-mystery-part-2/)
-- [Lambda, Expressions, and between them – From 11 to 20 – Part 1](https://cppsenioreas.wordpress.com/2020/09/07/lambda-expressions-and-between-them-from-cpp11-to-cpp20-part-1/)
 <!-- CPP-SENIOREAS-POSTS:END -->
 
 ### DevTo Posts
