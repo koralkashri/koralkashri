@@ -19,8 +19,8 @@
                 <li>📝 I regulary write articles on my C++ blog - C++ Senioreas <a href="https://cppsenioreas.wordpress.com/">https://cppsenioreas.wordpress.com/</a></li>
                 <li>🌱 I’m currently learning <b>C++ techniques</b></li>
                 <li>👯 I’m looking to collaborate on <a href="https://github.com/gcc-mirror/gcc">GCC compiler</a></li>
-                <li>👨‍💻 All of my projects are available at <a href="https://korel-kashri-portfolio.herokuapp.com/">my portfolio</a></li>
-                <li><b>📫 How to reach me</b>: Follow on <a href="https://twitter.com/intent/user?&region=follow&screen_name=KorelK2&tw_p=followbutton">twitter</a> Or <a href="mailto:korelkashri@gmail.com">direct message</a>.</li>
+                <li>👨‍💻 All of my projects are available at <a href="https://koral-kashri-portfolio.herokuapp.com/">my portfolio</a></li>
+                <li><b>📫 How to reach me</b>: Follow on <a href="https://twitter.com/intent/user?&region=follow&screen_name=koralkashri&tw_p=followbutton">twitter</a> Or <a href="mailto:koralkashri@gmail.com">direct message</a>.</li>
                 <li>💬 Ask me about <b>C++, Linux, RT systems</b></li>
             </ul>
         </td>
