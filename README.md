@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Korel 👋</h1>
+<h1 align="center">Hi, I'm Koral 👋</h1>
 <h3 align="center">FS developer - a passionate Linux C++ RT developer.<br>Currently: Senior C++ developer.</h3>
 
 <p align="center">
