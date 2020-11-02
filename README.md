@@ -114,11 +114,11 @@ the_compilation_power    2 mins              ░░░░░░░░░░░�
 
 ### DevTo Posts
 <!-- DevTo-POSTS:START -->
-- [Template Base Class Collection](https://dev.to/korelkashri/template-base-class-collection-2jel)
-- [C++ Basic templates usage – Part 2](https://dev.to/korelkashri/basic-templates-usage-part-2-1had)
-- [C++ Basic templates usage – Part 1](https://dev.to/korelkashri/basic-templates-usage-part-1-g1i)
-- [C++ Meta Programming: Why?](https://dev.to/korelkashri/c-meta-programming-why-4249)
-- [Before starting a new project – The Most Important Decision](https://dev.to/korelkashri/before-starting-a-new-project-the-most-important-decision-31c5)
+- [Template Base Class Collection](https://dev.to/koralkashri/template-base-class-collection-2jel)
+- [C++ Basic templates usage – Part 2](https://dev.to/koralkashri/basic-templates-usage-part-2-1had)
+- [C++ Basic templates usage – Part 1](https://dev.to/koralkashri/basic-templates-usage-part-1-g1i)
+- [C++ Meta Programming: Why?](https://dev.to/koralkashri/c-meta-programming-why-4249)
+- [Before starting a new project – The Most Important Decision](https://dev.to/koralkashri/before-starting-a-new-project-the-most-important-decision-31c5)
 <!-- DevTo-POSTS:END -->
 
 <p align="left">
