@@ -2,13 +2,13 @@
 <h3 align="center">FS developer - a passionate Linux C++ RT developer.<br>Currently: Senior C++ developer.</h3>
 
 <p align="center">
-<a href="https://dev.to/korelkashri" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="korelkashri" height="30" width="30" /></a>
-<a href="https://twitter.com/korelk2" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="korelk2" height="30" width="30" /></a>
-<a href="https://www.linkedin.com/in/korel-kashri-330b41162/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="korel kashri" height="30" width="30" /></a>
-<a href="https://stackoverflow.com/users/8038186" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="8038186" height="30" width="30" /></a>
+<a href="https://dev.to/koralkashri" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="koralkashri" height="30" width="30" /></a>
+<a href="https://twitter.com/koralkashri" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="koralkashri" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/koral-kashri-330b41162/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="koral kashri" height="30" width="30" /></a>
+<a href="https://stackoverflow.com/users/8038186" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="Koral Kshri" height="30" width="30" /></a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=korelkashri" alt="korelkashri" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=koralkashri" alt="koralkashri" /> </p>
 
 <table border="0">
     <tbody>
@@ -147,6 +147,6 @@ the_compilation_power    2 mins              ░░░░░░░░░░░�
          <br>
 </p>
 <!--<p>
-         <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=korelkashri&layout=compact&hide=html" alt="korelkashri" />
+         <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koralkashri&layout=compact&hide=html" alt="koralkashri" />
 </p>-->
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=korelkashri&show_icons=true" alt="korelkashri" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=koralkashri&show_icons=true" alt="koralkashri" /></p>
