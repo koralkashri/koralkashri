@@ -102,12 +102,12 @@ cpp_template_factory     35 mins             ██░░░░░░░░░�
 
 ### [C++ Senioreas](https://cppsenioreas.wordpress.com/) Posts
 <!-- CPP-SENIOREAS-POSTS:START -->
+- [Design Patterns: Factories – C++](https://cppsenioreas.wordpress.com/2020/12/27/design-patterns-factories-cpp/)
 - [Hash your Conditions – C++](https://cppsenioreas.wordpress.com/2020/12/13/hash-your-conditions-cpp/)
 - [C++ Help your compiler to help you](https://cppsenioreas.wordpress.com/2020/12/06/cpp-attributes/)
 - [C++ Compiler Secrets: Pragma](https://cppsenioreas.wordpress.com/2020/11/29/cpp-compiler-secrets-pragma/)
 - [C++ Illusions: Random](https://cppsenioreas.wordpress.com/2020/11/10/cpp-illusions-random/)
 - [Power Range(r)s – C++20](https://cppsenioreas.wordpress.com/2020/11/01/ranges-cpp20/)
-- [Contributing a C++ Compiler – Experience Details](https://cppsenioreas.wordpress.com/2020/10/25/contributing-a-cpp-compiler-experience-details/)
 <!-- CPP-SENIOREAS-POSTS:END -->
 
 ### DevTo Posts
