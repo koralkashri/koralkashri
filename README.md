@@ -104,12 +104,12 @@ cppsenioreas-design-patte0 secs              ░░░░░░░░░░░�
 
 ### [C++ Senioreas](https://cppsenioreas.wordpress.com/) Posts
 <!-- CPP-SENIOREAS-POSTS:START -->
+- [Design Patterns: RunTime Reflection – C++](https://cppsenioreas.wordpress.com/2021/01/17/design-patterns-runtime-reflection-cpp/)
 - [Design Patterns: Decorators – C++](https://cppsenioreas.wordpress.com/2021/01/03/design-patterns-decorators-cpp/)
 - [Design Patterns: Factories – C++](https://cppsenioreas.wordpress.com/2020/12/27/design-patterns-factories-cpp/)
 - [Hash your Conditions – C++](https://cppsenioreas.wordpress.com/2020/12/13/hash-your-conditions-cpp/)
 - [C++ Help your compiler to help you](https://cppsenioreas.wordpress.com/2020/12/06/cpp-attributes/)
 - [C++ Compiler Secrets: Pragma](https://cppsenioreas.wordpress.com/2020/11/29/cpp-compiler-secrets-pragma/)
-- [C++ Illusions: Random](https://cppsenioreas.wordpress.com/2020/11/10/cpp-illusions-random/)
 <!-- CPP-SENIOREAS-POSTS:END -->
 
 ### DevTo Posts
