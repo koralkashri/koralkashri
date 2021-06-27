@@ -84,15 +84,15 @@ $   $ $    $ $$  $$ $    $ $   $
 
 ```text
 💬 Programming Languages: 
-C++                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-checkers                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 26/06/2021
+ Last Updated on 27/06/2021
 <!--END_SECTION:waka-->
 
 ### [C++ Senioreas](https://cppsenioreas.wordpress.com/) Posts
